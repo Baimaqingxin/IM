@@ -1,7 +1,6 @@
 /**
  * @file file_server.hpp
  * @brief 文件传输服务，和语音传输服务基本相同
- * @author zhaobohan (zhaobohan_free@163.com)
  */
 #include <brpc/server.h>
 #include <butil/logging.h>
