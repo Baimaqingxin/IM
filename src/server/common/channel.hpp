@@ -1,7 +1,7 @@
 /**
  * @file channel.hpp
  * @brief 对于信道管理的封装
- * @author zhaobohan (zhaobohan_free@163.com)
+
  */
 
 #pragma once
