@@ -1,7 +1,6 @@
 /**
  * @file mysql_relation.hpp
  * @brief 封装的是好友关系库的操作
- * @author zhaobohan (zhaobohan_free@163.com)
  */
 
 #pragma once
