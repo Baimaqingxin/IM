@@ -1,7 +1,6 @@
 /**
 * @file friend_server.hpp
 * @brief 好友管理服务
-* @author zhaobohan (zhaobohan_free@163.com)
 */
 
 #include <brpc/server.h>
