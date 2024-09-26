@@ -1,7 +1,6 @@
 /**
  * @file connection.hpp
  * @brief 封装了对于客户端连接的管理
- * @author zhaobohan (zhaobohan_free@163.com)
  */
 
 #include <websocketpp/config/asio_no_tls.hpp>
