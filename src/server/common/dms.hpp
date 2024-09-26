@@ -1,7 +1,6 @@
 /**
 * @file dms.hpp
 * @brief 验证码服务的封装
-* @author zhaobohan (zhaobohan_free@163.com)
 */
 
 #pragma once
