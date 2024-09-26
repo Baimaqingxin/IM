@@ -1,7 +1,6 @@
 /**
  * @file mysql_user.hpp
  * @brief 利用ODB对于MySQL中的对象进行操作，主要封装的是user表的操作
- * @author zhaobohan (zhaobohan_free@163.com)
  */
 
 #include "mysql.hpp"
