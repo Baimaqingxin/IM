@@ -1,7 +1,6 @@
 /**
 * @file transmite_server.hpp
 * @brief 进行消息的转发
-* @author zhaobohan (zhaobohan_free@163.com)
 */
 
 #pragma once
