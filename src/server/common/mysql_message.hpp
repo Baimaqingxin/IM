@@ -1,7 +1,6 @@
 /**
  * @file mysql_message.hpp
  * @brief 封装的是对于消息记录表的操作
- * @author zhaobohan (zhaobohan_free@163.com)
  */
 
 #include "mysql.hpp"
