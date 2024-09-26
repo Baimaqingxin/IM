@@ -1,7 +1,6 @@
 /**
  * @file mysql_apply.hpp
  * @brief 对于好友申请过程的二次封装，主要封装的是好友申请记录表的操作
- * @author zhaobohan (zhaobohan_free@163.com)
  */
 
 #pragma once
