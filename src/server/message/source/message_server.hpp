@@ -1,7 +1,6 @@
 /**
  * @file message_server.hpp
  * @brief 消息存储子服务搭建
- * @author zhaobohan (zhaobohan_free@163.com)
  */
 
 #include <brpc/server.h>
