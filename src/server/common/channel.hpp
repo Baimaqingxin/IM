@@ -1,7 +1,6 @@
 /**
  * @file channel.hpp
  * @brief 对于信道管理的封装
-
  */
 
 #pragma once
