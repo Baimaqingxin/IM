@@ -1,7 +1,6 @@
 /**
  * @file icsearch.hpp
  * @brief elasticsearch内部的数据进行的封装
- * @author zhaobohan (zhaobohan_free@163.com)
  */
 
 #pragma once
