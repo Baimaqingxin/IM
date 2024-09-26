@@ -1,7 +1,6 @@
 /**
  * @file speech_server.hpp
  * @brief 实现语音识别子服务
- * @author zhaobohan (zhaobohan_free@163.com)
  */
 #include <brpc/server.h>
 #include <butil/logging.h>
