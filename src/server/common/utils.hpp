@@ -1,7 +1,6 @@
 /**
  * @file utils.hpp
  * @brief 实现项目中一些公共的工具类接口
- * @author zhaobohan (zhaobohan_free@163.com)
  */
 
 #include <iostream>
