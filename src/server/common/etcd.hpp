@@ -1,7 +1,6 @@
 /**
  * @file etcd.hpp
  * @brief 对于etcd服务发现的封装
- * @author zhaobohan (zhaobohan_free@163.com)
  */
 
 #pragma once
