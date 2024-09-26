@@ -1,7 +1,6 @@
 /**
  * @file asr.hpp
  * @brief 基于百度语音翻译的二次封装
- * @author zhaobohan (zhaobohan_free@163.com)
  */
 
 #pragma once
