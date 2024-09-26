@@ -1,7 +1,6 @@
 /**
  * @file data_es.hpp
  * @brief 对于elasticsearch内部属性操作进行封装
- * @author zhaobohan (zhaobohan_free@163.com)
  */
 
 #include "icsearch.hpp"
