@@ -1,7 +1,6 @@
 /**
  * @file data_redis.hpp
  * @brief 封装对于Redis的数据管理
- * @author zhaobohan (zhaobohan_free@163.com)
  */
 #include <sw/redis++/redis.h>
 #include <iostream>
