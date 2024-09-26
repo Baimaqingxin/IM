@@ -1,7 +1,6 @@
 /**
  * @file logger.hpp
  * @brief 对于spdlog日志系统的封装
- * @author zhaobohan (zhaobohan_free@163.com)
  */
 
 #pragma once
