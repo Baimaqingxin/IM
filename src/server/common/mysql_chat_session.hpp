@@ -1,7 +1,6 @@
 /**
  * @file mysql_chat_session.hpp
  * @brief 主要封装的是对于聊天会话表的操作
- * @author zhaobohan (zhaobohan_free@163.com)
  */
 
 #pragma once
