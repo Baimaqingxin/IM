@@ -1,7 +1,6 @@
 /**
  * @file mysql.hpp
  * @brief 实例化ODB的连接
- * @author zhaobohan (zhaobohan_free@163.com)
  */
 
 #pragma once
