@@ -1,7 +1,6 @@
 /**
 * @file gateway_server.hpp
 * @brief 封装了GateServer的服务
-* @author zhaobohan (zhaobohan_free@163.com)
 */
 
 #include "../../common/data_redis.hpp"      // redis数据管理客户端封装
