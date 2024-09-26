@@ -1,7 +1,6 @@
 /**
  * @file rabbitmq.hpp
  * @brief 对于RabbitMQ进行封装
- * @author zhaobohan (zhaobohan_free@163.com)
  */
 
 #pragma once
